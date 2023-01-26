@@ -1,7 +1,7 @@
 # metal_oxides_screening_for_photocatalytic_nitrogen_fixation
 Repository for screening data 
 ## Table of Final Candidates
-| Candidate  | E<sub>N2</sub> (eV) | E<sub>O2</sub>(eV) | N<sub>2</sub> strucutre | N<sub>2</sub> strucutre |
+| Candidate  | E<sub>N2</sub> (eV) | E<sub>O2</sub>(eV) | N<sub>2</sub> strucutre | O<sub>2</sub> strucutre |
 | ------------- | ------------- | ------------- | -------------| -------------|
 |O2Ti1_152_3_0_001_ontop|   -0.6669|   -0.4500|![](https://github.com/nianhant/metal_oxides_screening_for_photocatalytic_nitrogen_fixation/blob/main/qualified_high_fidelity_gifs/O2Ti1_152_3_0_001/O2Ti1_152_3_0_001_N2_ontop.gif)|![](https://github.com/nianhant/metal_oxides_screening_for_photocatalytic_nitrogen_fixation/blob/main/qualified_high_fidelity_gifs/O2Ti1_152_3_0_001/O2Ti1_152_3_0_001_O2_ontop.gif)| 
 |O2Ti1_12_2_0_111_ontop|   -0.4444|   -0.3292|![](https://github.com/nianhant/metal_oxides_screening_for_photocatalytic_nitrogen_fixation/blob/main/qualified_high_fidelity_gifs/O2Ti1_12_2_0_111/O2Ti1_12_2_0_111_N2_ontop.gif)|![](https://github.com/nianhant/metal_oxides_screening_for_photocatalytic_nitrogen_fixation/blob/main/qualified_high_fidelity_gifs/O2Ti1_12_2_0_111/O2Ti1_12_2_0_111_O2_ontop.gif)| 
