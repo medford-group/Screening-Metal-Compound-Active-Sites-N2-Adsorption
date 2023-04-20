@@ -1,12 +1,19 @@
 # Metal Oxides Screening for Photocatalytic Nitrogen Fixation
-This is a material screening project specifically focusing on finding promissing metal oxide catalysts for the photo-fixation of nitrogen under ambient conditions.
+This is a material screening project specifically focusing on finding promising metal oxide catalysts for the photo-fixation of nitrogen under ambient conditions.
 ## Table of Contents
 - [Introduction](#introduction)
 - [Usage](#Usage)
 - [Data](#Data)
-- [Final Candidate Visualization](#Final Candidate Visualization)
+- [Final_Candidate_Visualization](#Final_Candidate_Visualization)
 
-## Final Candidate Visualization
+
+## Introduction
+In this repository, we provide a material screening scheme that compares material's selectivity toward nitrogen and oxygen with low- and high-fidelity density functional theory  (DFT) calculations.
+
+## Usage
+1. The code to query bulk strucutres from Materials Project can be found [here](https://github.com/nianhant/metal_oxides_screening_for_photocatalytic_nitrogen_fixation/blob/main/code/query_compounds.py). 
+
+## Final_Candidate_Visualization
 Final Candidates that Remained Promising after High Fidelity Screening
 | Candidate  | E<sub>N2</sub> (eV) | E<sub>O2</sub>(eV) | N<sub>2</sub> strucutre | O<sub>2</sub> strucutre |
 | ------------- | ------------- | ------------- | -------------| -------------|
