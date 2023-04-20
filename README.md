@@ -1,6 +1,13 @@
-# metal_oxides_screening_for_photocatalytic_nitrogen_fixation
-Repository for screening data 
-## Table of Final Candidates
+# Metal Oxides Screening for Photocatalytic Nitrogen Fixation
+This is a material screening project specifically focusing on finding promissing metal oxide catalysts for the photo-fixation of nitrogen under ambient conditions.
+## Table of Contents
+- [Introduction](#introduction)
+- [Usage](#Usage)
+- [Data](#Data)
+- [Final Candidate Visualization](#Final Candidate Visualization)
+
+## Final Candidate Visualization
+Final Candidates that Remained Promising after High Fidelity Screening
 | Candidate  | E<sub>N2</sub> (eV) | E<sub>O2</sub>(eV) | N<sub>2</sub> strucutre | O<sub>2</sub> strucutre |
 | ------------- | ------------- | ------------- | -------------| -------------|
 |O2Ti1_152_3_0_001_ontop|   -0.6669|   -0.4500|![](https://github.com/nianhant/metal_oxides_screening_for_photocatalytic_nitrogen_fixation/blob/main/qualified_high_fidelity_gifs/O2Ti1_152_3_0_001/O2Ti1_152_3_0_001_N2_ontop.gif)|![](https://github.com/nianhant/metal_oxides_screening_for_photocatalytic_nitrogen_fixation/blob/main/qualified_high_fidelity_gifs/O2Ti1_152_3_0_001/O2Ti1_152_3_0_001_O2_ontop.gif)| 
