@@ -18,7 +18,7 @@ In this repository, we provide a material screening scheme that compares materia
 ## Data
 1. All relaxed structures (i.e. bare and adsorbed slabs) from the initial/low-fidelity screening can be found [here](https://github.com/nianhant/metal_oxides_screening_for_photocatalytic_nitrogen_fixation/blob/main/low_fidelity_screening.zip).
 
-2. All relaxed structures (i.e. bare and adsorbed slabs) from the second round/high-fidelity DFT screening can be found[here](https://github.com/nianhant/metal_oxides_screening_for_photocatalytic_nitrogen_fixation/tree/main/high_fidelity_screening_data).
+2. All relaxed structures (i.e. bare and adsorbed slabs) from the second round/high-fidelity DFT screening can be found [here](https://github.com/nianhant/metal_oxides_screening_for_photocatalytic_nitrogen_fixation/tree/main/high_fidelity_screening_data).
 
 3. Images of relaxed structures from the high-fidelity DFT screening can be found [here](https://github.com/nianhant/metal_oxides_screening_for_photocatalytic_nitrogen_fixation/tree/main/converged_high_fidelity_screening_surface_image).
 
